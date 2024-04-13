@@ -284,7 +284,7 @@ Transaction Digest: 5nM4MqFaB4qLjZyaAS2UEGGWkfdScDeD5cbxCH5sEffu
 │  │ Amount: -13163080                                                                              │
 │  └──                                                                                              │
 ╰───────────────────────────────────────────────────────────────────────────────────────────────────╯
-
+```
 ## mycoin
 
 ```rust
